@@ -14,21 +14,15 @@ var HomeView = function(store){
     this.findByName = function() {
         store.findByName($('.search-key').val(), function(employees) {
             $('.employee-list').html(HomeView.liTemplate(employees));
+            if (self.iscroll) {
+                console.log('Refresh iScroll');
+                self.iscroll.refresh();
+            } else {
+                console.log('New iScroll');
+                self.iscroll = new iScroll($('.scroll', self.el)[0], {hScrollbar: false, vScrollbar: false });
+            }
         });
     };
-
-//    findByName: function() {
-//        console.log('findByName');
-//        this.store.findByName($('.search-key').val(), function(employees) {
-//            var l = employees.length;
-//            var e;
-//            $('.employee-list').empty();
-//            for (var i=0; i<l; i++) {
-//                e = employees[i];
-//                $('.employee-list').append('<li><a href="#employees/' + e.id + '">' + e.firstName + ' ' + e.lastName + '</a></li>');
-//            }
-//        });
-//    };
 
     this.initialize();
 }
