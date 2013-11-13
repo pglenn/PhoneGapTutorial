@@ -35,7 +35,16 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="24" column="38" selection-start="798" selection-end="798" vertical-scroll-proportion="-9.153846" vertical-offset="170" max-vertical-offset="595">
+            <state line="41" column="42" selection-start="1564" selection-end="1564" vertical-scroll-proportion="-10.923077" vertical-offset="413" max-vertical-offset="867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="30" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
               <folding />
             </state>
           </provider>
@@ -53,7 +62,7 @@
       <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="30" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.505291" vertical-offset="438" max-vertical-offset="867">
+            <state line="52" column="78" selection-start="1882" selection-end="1882" vertical-scroll-proportion="2.3386242" vertical-offset="0" max-vertical-offset="1139">
               <folding />
             </state>
           </provider>
@@ -62,7 +71,7 @@
       <file leaf-file-name="HomeView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/HomeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="612">
+            <state line="18" column="39" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="612">
               <folding />
             </state>
           </provider>
@@ -78,9 +87,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/HomeView.js" />
         <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/EmployeeView.js" />
+        <option value="$PROJECT_DIR$/js/HomeView.js" />
         <option value="$PROJECT_DIR$/js/main.js" />
       </list>
     </option>
@@ -271,20 +281,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="38" selection-start="798" selection-end="798" vertical-scroll-proportion="-9.153846" vertical-offset="170" max-vertical-offset="595">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="394" selection-end="394" vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="612">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="151" column="25" selection-start="2803" selection-end="2803" vertical-scroll-proportion="0.0" vertical-offset="2516" max-vertical-offset="3570">
@@ -292,9 +288,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="42" selection-start="1564" selection-end="1564" vertical-scroll-proportion="-10.923077" vertical-offset="413" max-vertical-offset="867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/EmployeeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="30" selection-start="70" selection-end="70" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="357">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/HomeView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="39" selection-start="654" selection-end="654" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="612">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="30" selection-start="1421" selection-end="1421" vertical-scroll-proportion="0.505291" vertical-offset="438" max-vertical-offset="867">
+        <state line="52" column="78" selection-start="1882" selection-end="1882" vertical-scroll-proportion="2.3386242" vertical-offset="0" max-vertical-offset="1139">
           <folding />
         </state>
       </provider>
