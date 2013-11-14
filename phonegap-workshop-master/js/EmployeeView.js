@@ -59,14 +59,18 @@ var EmployeeView = function(employee){
         return false;
     };
 
+    this.swipeRightHandler = function(event) {
+        alert('swipeRightHandler');
+        event.preventDefault();
+        $.mobile.changePage('#');
+    }
+
     this.initialize = function() {
         this.el = $('<div/>');
         this.el.on('click', '.add-location-btn', this.addLocation);
         this.el.on('click', '.add-contact-btn', this.addToContacts);
         this.el.on('click', '.change-pic-btn', this.changePicture);
-        this.el.on('swiperight', '.employee-list', function() {
-            $.mobile.changePage("#");
-        });
+        this.el.on('swiperight', '.employee-list', this.swipeRightHandler);
     };
 
     this.initialize();
