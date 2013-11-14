@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccba629e-5dc3-45f3-997f-f4c8dc054910" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" afterPath="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/index.html" afterPath="$PROJECT_DIR$/phonegap-workshop-master/index.html" />
     </list>
     <ignored path="PhoneGapTutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,19 +54,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="23" selection-start="777" selection-end="784" vertical-scroll-proportion="-7.375" vertical-offset="153" max-vertical-offset="810">
+            <state line="49" column="7" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.88584477" vertical-offset="153" max-vertical-offset="825">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeView.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="21" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.38325992" vertical-offset="579" max-vertical-offset="1275">
+            <state line="56" column="21" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1275">
               <folding />
             </state>
           </provider>
@@ -121,9 +121,9 @@
       <list>
         <option value="$PROJECT_DIR$/phonegap-workshop-master/js/HomeView.js" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/js/main.js" />
-        <option value="$PROJECT_DIR$/phonegap-workshop-master/index.html" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/css/styles.css" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" />
+        <option value="$PROJECT_DIR$/phonegap-workshop-master/index.html" />
       </list>
     </option>
   </component>
@@ -403,16 +403,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/index.html">
+    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="23" selection-start="777" selection-end="784" vertical-scroll-proportion="-7.375" vertical-offset="153" max-vertical-offset="810">
+        <state line="56" column="21" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1275">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js">
+    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="21" selection-start="2036" selection-end="2036" vertical-scroll-proportion="0.38325992" vertical-offset="579" max-vertical-offset="1275">
+        <state line="49" column="7" selection-start="1900" selection-end="1900" vertical-scroll-proportion="0.88584477" vertical-offset="153" max-vertical-offset="825">
           <folding />
         </state>
       </provider>
