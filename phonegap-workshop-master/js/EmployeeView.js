@@ -64,7 +64,9 @@ var EmployeeView = function(employee){
         this.el.on('click', '.add-location-btn', this.addLocation);
         this.el.on('click', '.add-contact-btn', this.addToContacts);
         this.el.on('click', '.change-pic-btn', this.changePicture);
-        this.el.on('swiperight', function(){return true;});
+        this.el.on('swiperight', '.employee-list', function() {
+            window.location.hash = '#';
+        });
     };
 
     this.initialize();

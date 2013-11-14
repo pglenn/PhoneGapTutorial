@@ -71,20 +71,6 @@ var app = {
         $(window).on('hashchange', $.proxy(this.route, this));
     },
 
-//    route: function() {
-//
-//        var hash = window.location.hash;
-//        if (!hash) {
-//            $('body').html(new HomeView(this.store).render().el);
-//            return;
-//        }
-//        var match = hash.match(app.detailsURL);
-//        if (match) {
-//            this.store.findById(Number(match[1]), function(employee) {
-//                $('body').html(new EmployeeView(employee).render().el);
-//            });
-//        }
-//    },
 
     route: function() {
         var self = this;
@@ -105,6 +91,7 @@ var app = {
             });
         }
     },
+
 
     initialize: function() {
         var self = this;
