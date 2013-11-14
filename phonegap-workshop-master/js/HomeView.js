@@ -7,7 +7,13 @@ var HomeView = function(store){
     };
 
     this.render = function() {
+
         this.el.html(HomeView.template());
+        store.findByName('a', function(employees) {
+            $('.employee-list').html(HomeView.liTemplate(employees));
+        });
+
+
         return this;
     };
 
