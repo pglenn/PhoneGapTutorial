@@ -59,7 +59,7 @@ var EmployeeView = function(employee){
         return false;
     };
 
-    this.swipeHandler = function(event) {
+    this.swiperightHandler = function(event) {
         alert('swipeRightHandler');
         event.preventDefault();
         $.mobile.changePage('#');
@@ -70,7 +70,7 @@ var EmployeeView = function(employee){
         this.el.on('click', '.add-location-btn', this.addLocation);
         this.el.on('click', '.add-contact-btn', this.addToContacts);
         this.el.on('click', '.change-pic-btn', this.changePicture);
-        $( ".details" ).on( "swipe", this.swipeHandler );
+        $( "div.details" ).on( "swiperight", this.swiperightHandler );
     };
 
     this.initialize();
