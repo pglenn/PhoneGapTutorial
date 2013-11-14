@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ccba629e-5dc3-45f3-997f-f4c8dc054910" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" afterPath="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/index.html" afterPath="$PROJECT_DIR$/phonegap-workshop-master/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/js/main.js" afterPath="$PROJECT_DIR$/phonegap-workshop-master/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/phonegap-workshop-master/css/styles.css" afterPath="$PROJECT_DIR$/phonegap-workshop-master/css/styles.css" />
     </list>
     <ignored path="PhoneGapTutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,10 +26,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="main.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="0" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
+            <state line="90" column="30" selection-start="3266" selection-end="3266" vertical-scroll-proportion="0.4493392" vertical-offset="1044" max-vertical-offset="1890">
               <folding />
             </state>
           </provider>
@@ -53,10 +53,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmployeeView.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="EmployeeView.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="59" column="6" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.8237885" vertical-offset="324" max-vertical-offset="1170">
+            <state line="59" column="6" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1170">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="39" column="1" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3540">
               <folding />
             </state>
           </provider>
@@ -80,10 +89,11 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/phonegap-workshop-master/js/main.js" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/js/HomeView.js" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/index.html" />
         <option value="$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js" />
+        <option value="$PROJECT_DIR$/phonegap-workshop-master/css/styles.css" />
+        <option value="$PROJECT_DIR$/phonegap-workshop-master/js/main.js" />
       </list>
     </option>
   </component>
@@ -166,6 +176,24 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGapTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhoneGapTutorial" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="phonegap-workshop-master" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -260,13 +288,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="0" selection-start="1279" selection-end="1279" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1005">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/HomeView.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="11" selection-start="464" selection-end="464" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="630">
@@ -283,7 +304,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/EmployeeView.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="6" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.8237885" vertical-offset="324" max-vertical-offset="1170">
+        <state line="59" column="6" selection-start="2066" selection-end="2066" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="1170">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="1" selection-start="574" selection-end="574" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3540">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/phonegap-workshop-master/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="30" selection-start="3266" selection-end="3266" vertical-scroll-proportion="0.4493392" vertical-offset="1044" max-vertical-offset="1890">
           <folding />
         </state>
       </provider>
