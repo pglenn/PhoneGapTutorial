@@ -13,6 +13,7 @@ var HomeView = function(store){
             $('.employee-list').html(HomeView.liTemplate(employees));
         });
 
+
         return this;
     };
 
